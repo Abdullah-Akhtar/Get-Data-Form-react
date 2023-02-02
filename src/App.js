@@ -1,5 +1,5 @@
 import "./App.css";
-import UserForm from "./components/Form";
+import UserForm from "./routes/Form";
 function App() {
   return (
     <div>
